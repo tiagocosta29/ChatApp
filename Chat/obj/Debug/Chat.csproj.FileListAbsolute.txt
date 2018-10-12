@@ -1,0 +1,22 @@
+c:\users\danieladc\source\repos\ChatApp\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+c:\users\danieladc\source\repos\ChatApp\Chat\obj\Debug\Chat.Properties.Resources.resources
+c:\users\danieladc\source\repos\ChatApp\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+c:\users\danieladc\source\repos\ChatApp\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+c:\users\danieladc\source\repos\ChatApp\Chat\bin\Debug\Chat.exe.config
+c:\users\danieladc\source\repos\ChatApp\Chat\bin\Debug\Chat.exe
+c:\users\danieladc\source\repos\ChatApp\Chat\bin\Debug\Chat.pdb
+c:\users\danieladc\source\repos\ChatApp\Chat\obj\Debug\Chat.exe
+c:\users\danieladc\source\repos\ChatApp\Chat\obj\Debug\Chat.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\bin\Debug\Chat.exe.config
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\bin\Debug\Chat.exe
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\bin\Debug\Chat.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\bin\Debug\Common.dll
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\bin\Debug\Common.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.Login.resources
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.exe
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.ConnectedUsers.resources
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Chat\obj\Debug\Chat.PrivateChat.resources

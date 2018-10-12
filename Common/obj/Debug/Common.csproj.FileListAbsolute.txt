@@ -1,0 +1,11 @@
+c:\users\danieladc\source\repos\ChatApp\Common\bin\Debug\Common.dll
+c:\users\danieladc\source\repos\ChatApp\Common\bin\Debug\Common.pdb
+c:\users\danieladc\source\repos\ChatApp\Common\obj\Debug\Common.csprojAssemblyReference.cache
+c:\users\danieladc\source\repos\ChatApp\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+c:\users\danieladc\source\repos\ChatApp\Common\obj\Debug\Common.dll
+c:\users\danieladc\source\repos\ChatApp\Common\obj\Debug\Common.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Common\bin\Debug\Common.dll
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Common\bin\Debug\Common.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Common\obj\Debug\Common.dll
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Common\obj\Debug\Common.pdb

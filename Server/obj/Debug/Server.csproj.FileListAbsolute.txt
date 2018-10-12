@@ -1,0 +1,8 @@
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\bin\Debug\Server.exe.config
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\bin\Debug\Server.exe
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\bin\Debug\Server.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\obj\Debug\Server.exe
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\obj\Debug\Server.pdb
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\bin\Debug\Common.dll
+C:\Users\Tiago Costa\Documents\Redes\ChatApp\Server\bin\Debug\Common.pdb

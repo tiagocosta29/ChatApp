@@ -1,0 +1,11 @@
+c:\users\danieladc\source\repos\ChatApp\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.deps.json
+c:\users\danieladc\source\repos\ChatApp\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.runtimeconfig.json
+c:\users\danieladc\source\repos\ChatApp\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.runtimeconfig.dev.json
+c:\users\danieladc\source\repos\ChatApp\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.dll
+c:\users\danieladc\source\repos\ChatApp\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.pdb
+c:\users\danieladc\source\repos\ChatApp\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csprojAssemblyReference.cache
+c:\users\danieladc\source\repos\ChatApp\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csproj.CoreCompileInputs.cache
+c:\users\danieladc\source\repos\ChatApp\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.AssemblyInfoInputs.cache
+c:\users\danieladc\source\repos\ChatApp\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.AssemblyInfo.cs
+c:\users\danieladc\source\repos\ChatApp\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.dll
+c:\users\danieladc\source\repos\ChatApp\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.pdb
